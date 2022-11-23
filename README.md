@@ -1,4 +1,4 @@
-#Contributer: Alan Jallah
+
 
 ## Background
 
