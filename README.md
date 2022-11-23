@@ -1,4 +1,4 @@
-# Unit 21 Homework: Charity Funding Predictor
+#Contributer: Alan Jallah
 
 ## Background
 
